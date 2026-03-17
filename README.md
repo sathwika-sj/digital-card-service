@@ -33,4 +33,4 @@ To deploy digital-card-service on Kubernetes cluster using Dockers refer to [San
 API documentation is available [here](https://mosip.github.io/documentation/1.2.0/1.2.0.html).
 
 ## License
-This project is licensed under the terms of [Mozilla Public License 2.0](LICENSE).
+This project is licensed under the terms of [Mozilla Public License 2.0](LICENSE)
